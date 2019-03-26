@@ -1,0 +1,10 @@
+//predifine Variable
+$GLOBALS
+$_SERVER
+$_GET
+$_POST
+$_FILES
+$_COOKIES
+$_SESSION
+$_REQUIST
+$_ENV
