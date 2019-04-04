@@ -1,0 +1,224 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4e1becdc-beb5-47fe-87a3-c43ed0c16fec\" name=\"Default\" comment=\"\" />\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"TRACKING_ENABLED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf>\r\n      <file leaf-file-name=\"variable.php\" pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/../php_tutorial/variable.php\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"144\">\r\n              <caret line=\"8\" column=\"9\" lean-forward=\"true\" selection-start-line=\"8\" selection-start-column=\"9\" selection-end-line=\"8\" selection-end-column=\"9\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file leaf-file-name=\"vaiablescope.php\" pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/../php_tutorial/vaiablescope.php\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"180\">\r\n              <caret line=\"10\" column=\"39\" lean-forward=\"true\" selection-start-line=\"10\" selection-start-column=\"39\" selection-end-line=\"10\" selection-end-column=\"39\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/index.php\" />\r\n        <option value=\"$PROJECT_DIR$/../php_tutorial/index.php\" />\r\n        <option value=\"$PROJECT_DIR$/../php_tutorial/variable.php\" />\r\n        <option value=\"$PROJECT_DIR$/../php_tutorial/vaiablescope.php\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"JsBuildToolGruntFileManager\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\r\n  <component name=\"JsBuildToolPackageJson\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\r\n  <component name=\"JsGulpfileManager\">\r\n    <detection-done>true</detection-done>\r\n    <sorting>DEFINITION_ORDER</sorting>\r\n  </component>\r\n  <component name=\"NodePackageJsonFileManager\">\r\n    <packageJsonPaths />\r\n  </component>\r\n  <component name=\"PhpServers\">\r\n    <servers />\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"x\" value=\"10\" />\r\n    <option name=\"y\" value=\"20\" />\r\n    <option name=\"width\" value=\"1346\" />\r\n    <option name=\"height\" value=\"688\" />\r\n  </component>\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"Scope\" />\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"pph_beginner\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"php_tutorial\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4e1becdc-beb5-47fe-87a3-c43ed0c16fec\" name=\"Default\" comment=\"\" />\r\n      <created>1553608441675</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1553608441675</updated>\r\n      <workItem from=\"1553608443066\" duration=\"6038000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TimeTrackingManager\">\r\n    <option name=\"totallyTimeSpent\" value=\"6038000\" />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-8\" y=\"-8\" width=\"1382\" height=\"744\" extended-state=\"6\" />\r\n    <editor active=\"true\" />\r\n    <layout>\r\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.24962178\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Docker\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" side_tool=\"true\" />\r\n      <window_info anchor=\"right\" id=\"Database\" />\r\n      <window_info anchor=\"bottom\" id=\"Database Changes\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" />\r\n      <window_info id=\"Favorites\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n    </layout>\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"VcsContentAnnotationSettings\">\r\n    <option name=\"myLimit\" value=\"2678400000\" />\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/../php_tutorial/index.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"198\">\r\n          <caret line=\"11\" selection-start-line=\"11\" selection-end-line=\"11\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/../php_tutorial/variable.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"144\">\r\n          <caret line=\"8\" column=\"9\" lean-forward=\"true\" selection-start-line=\"8\" selection-start-column=\"9\" selection-end-line=\"8\" selection-end-column=\"9\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/../php_tutorial/vaiablescope.php\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"180\">\r\n          <caret line=\"10\" column=\"39\" lean-forward=\"true\" selection-start-line=\"10\" selection-start-column=\"39\" selection-end-line=\"10\" selection-end-column=\"39\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1554359543000)
++++ .idea/workspace.xml	(date 1554359391497)
+@@ -1,54 +1,74 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="4e1becdc-beb5-47fe-87a3-c43ed0c16fec" name="Default" comment="" />
++    <list default="true" id="4e1becdc-beb5-47fe-87a3-c43ed0c16fec" name="Default" comment="">
++      <change afterPath="$PROJECT_DIR$/variables-variable.php" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/new.php" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
++    </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+-    <option name="TRACKING_ENABLED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="FileEditorManager">
+-    <leaf>
+-      <file leaf-file-name="variable.php" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/../php_tutorial/variable.php">
++    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/variable.php">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="144">
+-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
++              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+             </state>
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="vaiablescope.php" pinned="false" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/../php_tutorial/vaiablescope.php">
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/vaiablescope.php">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="180">
+-              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
++              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+             </state>
+           </provider>
+         </entry>
+       </file>
++      <file pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/variables-variable.php">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="36">
++              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/.gitignore">
++          <provider selected="true" editor-type-id="text-editor" />
++        </entry>
++      </file>
+     </leaf>
+   </component>
++  <component name="FindInProjectRecents">
++    <findStrings>
++      <find>CME Session 1</find>
++    </findStrings>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
+   <component name="IdeDocumentHistory">
+     <option name="CHANGED_PATHS">
+       <list>
+         <option value="$PROJECT_DIR$/index.php" />
+-        <option value="$PROJECT_DIR$/../php_tutorial/index.php" />
+-        <option value="$PROJECT_DIR$/../php_tutorial/variable.php" />
+-        <option value="$PROJECT_DIR$/../php_tutorial/vaiablescope.php" />
++        <option value="$PROJECT_DIR$/index.php" />
++        <option value="$PROJECT_DIR$/variable.php" />
++        <option value="$PROJECT_DIR$/vaiablescope.php" />
++        <option value="$PROJECT_DIR$/new.php" />
++        <option value="$PROJECT_DIR$/to.php" />
++        <option value="$PROJECT_DIR$/top.php" />
++        <option value="$PROJECT_DIR$/variables-variable.php" />
+       </list>
+     </option>
+-  </component>
+-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+-  <component name="JsGulpfileManager">
+-    <detection-done>true</detection-done>
+-    <sorting>DEFINITION_ORDER</sorting>
+-  </component>
+-  <component name="NodePackageJsonFileManager">
+-    <packageJsonPaths />
+   </component>
+   <component name="PhpServers">
+     <servers />
+@@ -69,7 +89,7 @@
+         <subPane>
+           <expand>
+             <path>
+-              <item name="pph_beginner" type="b2602c69:ProjectViewProjectNode" />
++              <item name="php_tutorial" type="b2602c69:ProjectViewProjectNode" />
+               <item name="php_tutorial" type="462c0819:PsiDirectoryNode" />
+             </path>
+           </expand>
+@@ -79,6 +99,7 @@
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
++    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+@@ -106,63 +127,74 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1553608441675</updated>
+-      <workItem from="1553608443066" duration="6038000" />
++      <workItem from="1553608443066" duration="10688000" />
++      <workItem from="1553660240412" duration="2403000" />
++      <workItem from="1554358483713" duration="905000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="6038000" />
++    <option name="totallyTimeSpent" value="13996000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+     <editor active="true" />
+     <layout>
+-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+-      <window_info anchor="bottom" id="TODO" order="6" />
+-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+-      <window_info anchor="right" id="Database" />
+-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
++      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
++      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
++      <window_info id="Favorites" order="2" side_tool="true" />
++      <window_info anchor="bottom" id="Message" order="0" />
++      <window_info anchor="bottom" id="Find" order="1" />
+       <window_info anchor="bottom" id="Run" order="2" />
+-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+-      <window_info anchor="bottom" id="Terminal" />
+-      <window_info id="Favorites" side_tool="true" />
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+-      <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
++      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
++      <window_info anchor="bottom" id="TODO" order="6" />
++      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
++      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
++      <window_info anchor="bottom" id="Terminal" order="9" />
++      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3289689" />
++      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
++      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+-      <window_info anchor="bottom" id="Message" order="0" />
+-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
++      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
++      <window_info anchor="right" id="Database" order="3" />
+     </layout>
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="1" />
+-  </component>
+-  <component name="VcsContentAnnotationSettings">
+-    <option name="myLimit" value="2678400000" />
+   </component>
+   <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/../php_tutorial/index.php">
++    <entry file="file://$PROJECT_DIR$/index.php" />
++    <entry file="file://$PROJECT_DIR$/new.php" />
++    <entry file="file://$PROJECT_DIR$/top.php">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="198">
+-          <caret line="11" selection-start-line="11" selection-end-line="11" />
++        <state relative-caret-position="87">
++          <caret line="53" column="55" lean-forward="true" selection-end-line="359" selection-end-column="14" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/../php_tutorial/variable.php">
++    <entry file="file://$PROJECT_DIR$/variable.php">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="144">
+-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
++          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/../php_tutorial/vaiablescope.php">
++    <entry file="file://$PROJECT_DIR$/vaiablescope.php">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="180">
+-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
++          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/.gitignore">
++      <provider selected="true" editor-type-id="text-editor" />
++    </entry>
++    <entry file="file://$PROJECT_DIR$/variables-variable.php">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="36">
++          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+         </state>
+       </provider>
+     </entry>
