@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e1becdc-beb5-47fe-87a3-c43ed0c16fec" name="Default" comment="">
+    <list default="true" id="4e1becdc-beb5-47fe-87a3-c43ed0c16fec" name="Default" comment="variable variables updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new.php" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/variables-variable.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="144">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -47,6 +46,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -54,6 +56,7 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/variable.php" />
         <option value="$PROJECT_DIR$/vaiablescope.php" />
+        <option value="$PROJECT_DIR$/variables-variable.php" />
       </list>
     </option>
   </component>
@@ -116,10 +119,25 @@
       <updated>1553608441675</updated>
       <workItem from="1553608443066" duration="6038000" />
     </task>
+    <task id="LOCAL-00001" summary="add new file variable variable">
+      <created>1554360348739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554360348739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="variable variables updated">
+      <created>1554360516736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554360516736</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6530000" />
+    <option name="totallyTimeSpent" value="7128000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -159,7 +177,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new file variable variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new file variable variable" />
+    <MESSAGE value="variable variables updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="variable variables updated" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php" />
