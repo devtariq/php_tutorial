@@ -1,10 +1,12 @@
 <?php
 $city = "Dhaka";
-$$city = "Capital of ";
+$$city = "13094 square mile ";
 
-echo $Dhaka;
+//echo $Dhaka;
 
-$number = 5.4;
-echo $number;
+echo "$city is the capital of bangladesh <br>";
+
+echo "The size of  $city is  ${$city} "
+
 
 ?>
